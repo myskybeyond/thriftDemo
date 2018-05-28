@@ -1,0 +1,2 @@
+# thriftDemo
+thrift helloworld
